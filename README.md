@@ -4,7 +4,9 @@
 - 📫 How to reach me: github@httpjames.space
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm an avid privacy activist and nerd.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpjamesm&theme=tokyonight&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=httpjamesm" />
-
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpjamesm&theme=tokyonight&layout=compact" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=httpjamesm" />
+</a>

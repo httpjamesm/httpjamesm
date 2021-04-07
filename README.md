@@ -5,6 +5,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm an avid privacy activist and nerd.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs&/?username=httpjamesm&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpjamesm&theme=tokyonight&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=httpjamesm" />
 

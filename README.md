@@ -13,3 +13,5 @@
 </a>
 
 Let's work together! Send me an email or a DM so we can make something awesome.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L3DGFV3)

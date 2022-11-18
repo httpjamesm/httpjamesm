@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 💬 Ask me about cryptography
-- 📫 How to reach me: github@httpjames.space; http.james#6969 on Discord
+- 📫 How to reach me: github@httpjames.space
 - 😄 Pronouns: he/him
 - 🧑‍💻 What I'm currently working on: [Horizon](https://horizon.pics), [Conversely](https://converselyapp.com)
-- ⚡ Fun fact: I'm an avid privacy activist.
+- ⚡ Fun fact: I'm an avid privacy activist
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpjamesm&theme=tokyonight&layout=compact" />
 </a>

@@ -3,7 +3,7 @@
 - 💬 Ask me about cryptography
 - 📫 How to reach me: github@httpjames.space
 - 😄 Pronouns: he/him
-- 🧑‍💻 What I'm currently working on: [Horizon](https://horizon.pics), [Conversely](https://converselyapp.com)
+- 🧑‍💻 What I'm currently working on: [Horizon](https://horizon.pics), [Bitesized](https://bitesized.news)
 - ⚡ Fun fact: I'm an avid privacy activist
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpjamesm&theme=tokyonight&layout=compact" />
